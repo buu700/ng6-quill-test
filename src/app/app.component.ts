@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import 'parchment';
 
 @Component({
   selector: 'app-root',
